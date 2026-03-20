@@ -21,6 +21,8 @@ The goal of this project is to:
 ## 📈 Results
 - Achieved competitive performance on Kaggle In-Class Competition
 - Compared multiple models and selected the best based on performance
+- Best Regression RMSE: 8.06574
+- Best Classification Score: 0.41071
 
 ## 🧠 Key Learnings
 - Importance of feature engineering
@@ -39,7 +41,7 @@ This project was completed as part of university coursework and is shared for ed
 ## 📈 Results
 Model performance evaluated using Kaggle In-Class Competition.
 ### Regression Result
-![8.06574](results/kaggle.score.regression.png)
+(results/kaggle.score.regression.png)
 
 ### Classification Result
 ![0.41071](results/kaggle.score.classification.png)
