@@ -41,7 +41,7 @@ This project was completed as part of university coursework and is shared for ed
 ## 📈 Results
 Model performance evaluated using Kaggle In-Class Competition.
 ### Regression Result
-(results/kaggle.score.regression.png)
+![8.06574](results/kaggle.score.regression.png)
 
 ### Classification Result
 ![0.41071](results/kaggle.score.classification.png)
